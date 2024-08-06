@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst & Data Science
 ---------------------------
 
-🎓 I graduated from the University of Information Technology and Communications with a major in Business Informatics. My academic journey has been marked by significant achievements, including presenting innovative projects at esteemed conferences. 
-💼 My professional experience spans several roles, including IT support, operations management, and reselling. These roles have honed my skills in data analysis, software AI, management, network management, IoT networks, troubleshooting, and optimizing systems for efficiency.
-💡 I'm passionate about data science and AI, enjoying the challenge of solving complex problems and creating innovative solutions. I leverage my analytical skills to drive business decisions and improve operational efficiencies. 
+🎓 I graduated from the University of Information Technology and Communications with a major in Business Informatics. My academic journey has been marked by significant achievements, including presenting innovative projects at esteemed conferences.                                                                                                 
+💼 My professional experience spans several roles, including IT support, operations management, and reselling. These roles have honed my skills in data analysis, software AI, management, network management, IoT networks, troubleshooting, and optimizing systems for efficiency.                                                                           
+💡 I'm passionate about data science and AI, enjoying the challenge of solving complex problems and creating innovative solutions. I leverage my analytical skills to drive business decisions and improve operational efficiencies.                                                                                                                        
 🚀 Currently, I'm actively seeking new opportunities and am open to connections, advice, and collaboration. I participate in various data science competitions and continuously work on enhancing my skills and applying new technologies.
 
 * 🌍  I'm based in Bagdad
